@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-04T09:57:15 AEDT" name="Default suite" finished-at="2020-10-04T09:57:51 AEDT" duration-ms="36275">
+    <groups>
+    </groups>
+    <test started-at="2020-10-04T09:57:15 AEDT" name="Default test" finished-at="2020-10-04T09:57:51 AEDT" duration-ms="36275">
+      <class name="TestCase.ShopingCartTest">
+        <test-method signature="AddItemsToCartTest()[pri:0, instance:TestCase.ShopingCartTest@35f26e72]" started-at="2020-10-04T09:57:15 AEDT" name="AddItemsToCartTest" finished-at="2020-10-04T09:57:15 AEDT" duration-ms="743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItemsToCartTest -->
+        <test-method signature="CheckTheCart()[pri:0, instance:TestCase.ShopingCartTest@35f26e72]" started-at="2020-10-04T09:57:15 AEDT" name="CheckTheCart" finished-at="2020-10-04T09:57:16 AEDT" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheCart -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCase.ShopingCartTest@35f26e72]" started-at="2020-10-04T09:57:51 AEDT" name="TearDown" finished-at="2020-10-04T09:57:51 AEDT" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCase.ShopingCartTest -->
+      <class name="TestCase.ContactPageTest">
+        <test-method signature="EnterValidDataToMandatoryFields()[pri:0, instance:TestCase.ContactPageTest@2d6764b2]" started-at="2020-10-04T09:57:16 AEDT" name="EnterValidDataToMandatoryFields" finished-at="2020-10-04T09:57:47 AEDT" duration-ms="31330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterValidDataToMandatoryFields -->
+        <test-method signature="InvalidDataToAllFields()[pri:0, instance:TestCase.ContactPageTest@2d6764b2]" started-at="2020-10-04T09:57:47 AEDT" name="InvalidDataToAllFields" finished-at="2020-10-04T09:57:48 AEDT" duration-ms="1109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidDataToAllFields -->
+        <test-method signature="ValidDataToMandatoryFields()[pri:0, instance:TestCase.ContactPageTest@2d6764b2]" started-at="2020-10-04T09:57:48 AEDT" name="ValidDataToMandatoryFields" finished-at="2020-10-04T09:57:50 AEDT" duration-ms="2024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidDataToMandatoryFields -->
+        <test-method signature="ValidateMandatoryFields()[pri:0, instance:TestCase.ContactPageTest@2d6764b2]" started-at="2020-10-04T09:57:50 AEDT" name="ValidateMandatoryFields" finished-at="2020-10-04T09:57:51 AEDT" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateMandatoryFields -->
+      </class> <!-- TestCase.ContactPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
